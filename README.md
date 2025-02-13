@@ -1,2 +1,1 @@
 # Golden-Ratio
-MTK
